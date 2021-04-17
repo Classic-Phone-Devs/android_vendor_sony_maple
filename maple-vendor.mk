@@ -580,16 +580,12 @@ PRODUCT_PACKAGES += \
     QtiTelephonyService \
     datastatusnotification \
     embms \
-    GoogleCamera \
-    Lifelog-googlePlayLiveRelease-4.0.A.0.14-8388622 \
-    SomcMovieCreatorRmm-release \
     SomcSketch-Live-8.3.B.0.13 \
     com.sonymobile.support \
     uceShimService \
     ims \
     qcrilmsgtunnel \
     SemcMusic \
-    SemcPhotoEditor \
     dpmserviceapp \
     WfdCommon \
     com.fingerprints.extension \
