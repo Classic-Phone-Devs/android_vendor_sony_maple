@@ -58,8 +58,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/maple/proprietary/etc/customization/modem/amss_fsg_maple_hutch_uk_volte_vowifi_tar.mbn:$(TARGET_COPY_OUT_SYSTEM)/etc/customization/modem/amss_fsg_maple_hutch_uk_volte_vowifi_tar.mbn \
     vendor/sony/maple/proprietary/etc/customization/modem/amss_fsg_maple_ir51_ir92_ims_gte_tar.mbn:$(TARGET_COPY_OUT_SYSTEM)/etc/customization/modem/amss_fsg_maple_ir51_ir92_ims_gte_tar.mbn \
     vendor/sony/maple/proprietary/etc/customization/modem/amss_fsg_maple_ir51_ir92_ims_tar.mbn:$(TARGET_COPY_OUT_SYSTEM)/etc/customization/modem/amss_fsg_maple_ir51_ir92_ims_tar.mbn \
-    vendor/sony/maple_dsds/proprietary/etc/customization/modem/amss_fsg_maple_dsds_ir51_ir92_ims_gte_tar.mbn:$(TARGET_COPY_OUT_SYSTEM)/etc/customization/modem/amss_fsg_maple_dsds_ir51_ir92_ims_gte_tar.mbn \
-    vendor/sony/maple_dsds/proprietary/etc/customization/modem/amss_fsg_maple_dsds_ir51_ir92_ims_tar.mbn:$(TARGET_COPY_OUT_SYSTEM)/etc/customization/modem/amss_fsg_maple_dsds_ir51_ir92_ims_tar.mbn \
     vendor/sony/maple/proprietary/etc/customization/modem/amss_fsg_maple_jazztel_tar.mbn:$(TARGET_COPY_OUT_SYSTEM)/etc/customization/modem/amss_fsg_maple_jazztel_tar.mbn \
     vendor/sony/maple/proprietary/etc/customization/modem/amss_fsg_maple_kpn_netherlands_ims_tar.mbn:$(TARGET_COPY_OUT_SYSTEM)/etc/customization/modem/amss_fsg_maple_kpn_netherlands_ims_tar.mbn \
     vendor/sony/maple/proprietary/etc/customization/modem/amss_fsg_maple_kpn_tar.mbn:$(TARGET_COPY_OUT_SYSTEM)/etc/customization/modem/amss_fsg_maple_kpn_tar.mbn \
